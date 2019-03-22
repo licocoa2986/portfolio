@@ -60,14 +60,14 @@ a.active,.nav a:hover{
 }
 
 .b{
-    width: 65%;
+    width: 75%;
 }
 .c{
-    width: 55%;
+    width: 75%;
 }
 
 .d{
-    width: 75%
+    width: 75%;
 }
 
 .content{
@@ -82,8 +82,8 @@ a.active,.nav a:hover{
 
 .home{
     position: absolute;
-    right: 0;
-    bottom:15%;
+    left: 25%;
+    bottom:25%;
     color: dimgray;
     font-family: verdana;
 }
@@ -149,17 +149,17 @@ a.active,.nav a:hover{
 }
 
 .map{
-     position:absolute;
-    right: 45%;
-    top: 16%;
+    position:absolute;
+    right: 40%;
+    top: 25%;
     color: gainsboro;
     padding: 0.6px; 
 }
 
 .contactme{
     position:absolute;
-    right: 0;
-    top: 16%;
+    right: -5%;
+    top: 25%;
     color: gainsboro;
     padding: 0.6px; 
 }
